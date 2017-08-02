@@ -8,7 +8,20 @@ From the Amazon fine-foods dataset I extract the following features:
 - Score of the review
 
 ## Test results
-
+Output of the script
+```
+Confusion matrix LR:
+16067.0  16775.0
+5521.0   51505.0  
+Confusion matrix DC: 
+54458.0  2568.0
+5729.0   27113.0  
+Confusion matrix Doc: 
+6837.0  26192.0  
+4448.0  52137.0  
+Precision LR = 0.7519027907597811                                               
+Precision DC = 0.9076757021409178
+```
 
 ## Dataset
-You can download the Amazon fine-foods dataset following this link: https://snap.stanford.edu/data/web-FineFoods.html
+[Amazon fine-foods dataset](https://snap.stanford.edu/data/web-FineFoods.html)
