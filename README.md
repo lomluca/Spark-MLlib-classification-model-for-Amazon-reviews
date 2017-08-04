@@ -1,5 +1,5 @@
 # Spark MLlib classification model for Amazon reviews 
-In this script I try two classification model (Logistic Regression and Decision Tree) to label Amazon reviews as "useful" or "useless". The precision of the Decision Tree is about 90% :thumbsup:
+In this script I try two classification models (Logistic Regression and Decision Tree) to label Amazon reviews as "useful" or "useless". The precision of the Decision Tree is about 90% :thumbsup:
 
 From the Amazon fine-foods dataset I extract the following features:
 - Lenght of the review text
